@@ -954,12 +954,11 @@
 }
 
 .u-section-7 .u-text-2 {
-  /* font-size: 1.05rem; */
   font-size: 12px;
   text-align:left;
-
-  line-height: 1.1rem;
+  line-height: 1 rem;
   margin: 13px 0 0;
+  text-align: justify;
 }
 
 .u-section-7 .u-text-3 {
@@ -987,11 +986,11 @@
 }
 
 .u-section-7 .u-text-5 {
-  /* font-size: 1.25rem; */
   font-size: 12px;
   text-align:left;
-  line-height: 1.1rem;
+  line-height: 1 rem;
   margin: 13px 0 0;
+  text-align: justify;
 }
 
 .u-section-7 .u-text-6 {
@@ -1019,11 +1018,11 @@
 }
 
 .u-section-7 .u-text-8 {
-  /* font-size: 1.25rem; */
   font-size: 12px;
   text-align:left;
-  line-height: 1.1rem;
+  line-height: 1 rem;
   margin: 13px 0 0;
+  text-align: justify;
 }
 
 .u-section-7 .u-text-9 {
